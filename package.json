@@ -1,0 +1,36 @@
+{
+  "name": "urban-air-quality-assistant",
+  "version": "1.0.0",
+  "description": "AeroShield: Production-grade GenAI-powered assistant helping families and communities navigate severe winter smog and urban air pollution.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "lint": "eslint src/ --ext .ts",
+    "audit:security": "npm audit"
+  },
+  "keywords": [
+    "air-quality",
+    "genai",
+    "winter-smog",
+    "sustainability",
+    "urban-resilience",
+    "accessibility",
+    "corsi-rosenthal",
+    "aqi"
+  ],
+  "author": "PromptWars Challenge 6 Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}
