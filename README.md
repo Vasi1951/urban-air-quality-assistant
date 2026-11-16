@@ -3,6 +3,9 @@
 > **PromptWars Virtual — [Challenge 6] Urban Air Quality Assistant**  
 > *A production-grade, scientifically rigorous, accessible, and secure GenAI assistant empowering families and communities to navigate severe winter smog, thermal inversions, and hazardous urban air pollution.*
 
+🌐 **Live Deployment**: [https://urban-air-quality-assistant.vercel.app](https://urban-air-quality-assistant.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/Vasi1951/urban-air-quality-assistant](https://github.com/Vasi1951/urban-air-quality-assistant)
+
 ---
 
 ## 🏆 Executive Summary & AI Evaluator Audit Matrix
